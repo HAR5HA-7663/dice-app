@@ -22,3 +22,7 @@ flutter:
 
   assets:
   - images/
+  fonts:
+    - family: Tesla
+      fonts:
+        - asset: fonts/TESLA.ttf
